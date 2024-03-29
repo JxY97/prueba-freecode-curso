@@ -1,2 +1,2 @@
-# prueba-freecode-curso
+# MI PRIMER README
 primer repositorio freecodecamp git
